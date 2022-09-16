@@ -1,0 +1,14 @@
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.exe
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.deps.json
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.runtimeconfig.json
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.runtimeconfig.dev.json
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.dll
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\bin\Debug\netcoreapp3.1\DeliverableOne.pdb
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.csproj.AssemblyReference.cache
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.AssemblyInfoInputs.cache
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.AssemblyInfo.cs
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.dll
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.pdb
+C:\Users\alhas\source\repos\DeliverableOne\DeliverableOne\obj\Debug\netcoreapp3.1\DeliverableOne.genruntimeconfig.cache
